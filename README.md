@@ -1,4 +1,8 @@
-# Faust Scaffold
+# Learn With Jason: Build a Headless WordPress site with WPGraphQL, Faust.js and WPGraphQL Smart Cache
+
+This is an example repository used for this episode of the Learn with Jason show: https://www.learnwithjason.dev/build-a-headless-wordpress-site-with-wpgraphql-faust-js-and-wpgraphql-smart-cache
+
+## Based on the Faust Scaffold
 
 This repository contains a starter scaffolding to get you up and running quickly on [WP Engine's Atlas platform](https://wpengine.com/atlas/) with a WordPress site skeleton for more advanced developers.
 
