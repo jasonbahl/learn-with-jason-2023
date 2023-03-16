@@ -18,6 +18,9 @@
 # misc
 .DS_Store
 *.pem
+.idea
+
+possibleTypes.json
 
 # debug
 npm-debug.log*
